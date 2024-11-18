@@ -1,7 +1,7 @@
-![1](LogoColorSystem/1XP_Logo_Color_System_1.png)
-![2](LogoColorSystem/1XP_Logo_Color_System_2.png)
-![3](LogoColorSystem/1XP_Logo_Color_System_3.png)
-![4](LogoColorSystem/1XP_Logo_Color_System_4.png)
-![5](LogoColorSystem/1XP_Logo_Color_System_5.png)
+![1](logo_color_system/1xp_logo_color_system_1.png)
+![2](logo_color_system/1xp_logo_color_system_2.png)
+![3](logo_color_system/1xp_logo_color_system_3.png)
+![4](logo_color_system/1xp_logo_color_system_4.png)
+![5](logo_color_system/1xp_logo_color_system_5.png)
 
 
